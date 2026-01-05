@@ -1,0 +1,155 @@
+[
+  {
+    "id": "boruto",
+    "name": "Boruto Uzumaki",
+    "anime": "Boruto: Naruto Next Generations",
+    "image": "",
+    "stats": { "strength": 75, "speed": 78, "durability": 70, "hax": 65, "iq": 80, "stamina": 75 },
+    "about": "Boruto as a young ninja, scaling early feats from academy and mission battles.",
+    "abilities": [
+      { "name": "Vanishing Rasengan", "description": "Enhanced Rasengan that can move unpredictably." }
+    ],
+    "feats": [
+      { "title": "Defeated shinobi opponents", "detail": "Showcases skill growth and tactical thinking." }
+    ],
+    "sources": [
+      { "label": "Boruto Manga / Episode reference", "url": "https://example.com" }
+    ]
+  },
+  {
+    "id": "naruto",
+    "name": "Naruto Uzumaki",
+    "anime": "Naruto Shippuden",
+    "image": "",
+    "stats": { "strength": 85, "speed": 80, "durability": 88, "hax": 75, "iq": 70, "stamina": 90 },
+    "about": "Naruto as Sage of Six Paths, used for scaling major battles in Naruto Shippuden.",
+    "abilities": [
+      { "name": "Rasengan", "description": "Chakra-based attack scaling with skill and chakra control." }
+    ],
+    "feats": [
+      { "title": "Fought Sasuke at Final Valley", "detail": "Demonstrates peak abilities; Naruto Shippuden Ep. 476." }
+    ],
+    "sources": [
+      { "label": "Naruto Shippuden Ep. 476", "url": "https://example.com" }
+    ]
+  },
+  {
+    "id": "yuji",
+    "name": "Yuji Itadori",
+    "anime": "Jujutsu Kaisen",
+    "image": "",
+    "stats": { "strength": 82, "speed": 80, "durability": 78, "hax": 70, "iq": 75, "stamina": 80 },
+    "about": "Yuji at peak physical and cursed energy levels, scaling against cursed spirits.",
+    "abilities": [
+      { "name": "Divergent Fist", "description": "Punch that releases delayed cursed energy impact." }
+    ],
+    "feats": [
+      { "title": "Fought Sukuna partially possessed", "detail": "Demonstrates growth and combat skill." }
+    ],
+    "sources": [
+      { "label": "Jujutsu Kaisen Manga Ep. 23", "url": "https://example.com" }
+    ]
+  },
+  {
+    "id": "shoto",
+    "name": "Shoto Todoroki",
+    "anime": "My Hero Academia",
+    "image": "",
+    "stats": { "strength": 78, "speed": 76, "durability": 75, "hax": 80, "iq": 78, "stamina": 77 },
+    "about": "Shoto Todoroki using full control of ice and fire quirks, scaling from UA Tournament matches.",
+    "abilities": [
+      { "name": "Half-Cold Half-Hot", "description": "Ice and fire abilities for versatile combat scaling." }
+    ],
+    "feats": [
+      { "title": "Defeated multiple rivals in UA Tournament", "detail": "Shows control, strategy, and elemental power." }
+    ],
+    "sources": [
+      { "label": "My Hero Academia Ep. 21", "url": "https://example.com" }
+    ]
+  },
+  {
+    "id": "eren",
+    "name": "Eren Yeager",
+    "anime": "Attack on Titan",
+    "image": "",
+    "stats": { "strength": 85, "speed": 80, "durability": 88, "hax": 75, "iq": 80, "stamina": 90 },
+    "about": "Eren in Founding Titan form, used for scaling against titans and high-level opponents.",
+    "abilities": [
+      { "name": "Titan Transformation", "description": "Gives massive size, strength, and regeneration." }
+    ],
+    "feats": [
+      { "title": "Defeated Marleyan forces", "detail": "Demonstrates raw power and destructive capability." }
+    ],
+    "sources": [
+      { "label": "Attack on Titan Manga Chapter 121", "url": "https://example.com" }
+    ]
+  },
+  {
+    "id": "gojo",
+    "name": "Satoru Gojo",
+    "anime": "Jujutsu Kaisen",
+    "image": "",
+    "stats": { "strength": 90, "speed": 95, "durability": 85, "hax": 100, "iq": 95, "stamina": 85 },
+    "about": "Gojo at full power, using Limitless and Infinity for scaling.",
+    "abilities": [
+      { "name": "Infinity", "description": "Stops attacks from reaching him; overpowered scaling ability." }
+    ],
+    "feats": [
+      { "title": "Defeated multiple curses effortlessly", "detail": "Shows overwhelming power in early arcs." }
+    ],
+    "sources": [
+      { "label": "Jujutsu Kaisen Manga Chapter 64", "url": "https://example.com" }
+    ]
+  },
+  {
+    "id": "tanjiro",
+    "name": "Tanjiro Kamado",
+    "anime": "Demon Slayer",
+    "image": "",
+    "stats": { "strength": 78, "speed": 77, "durability": 80, "hax": 70, "iq": 75, "stamina": 80 },
+    "about": "Tanjiro using Water Breathing and Sun Breathing techniques, scaling high-tier demon slayers.",
+    "abilities": [
+      { "name": "Hinokami Kagura", "description": "Flame-based sword technique boosting overall combat power." }
+    ],
+    "feats": [
+      { "title": "Defeated Upper Rank demons", "detail": "Demonstrates extreme skill and stamina." }
+    ],
+    "sources": [
+      { "label": "Demon Slayer Ep. 19", "url": "https://example.com" }
+    ]
+  },
+  {
+    "id": "asta",
+    "name": "Asta",
+    "anime": "Black Clover",
+    "image": "",
+    "stats": { "strength": 80, "speed": 78, "durability": 82, "hax": 75, "iq": 70, "stamina": 88 },
+    "about": "Asta at Black Asta form, used for scaling against high-level mages.",
+    "abilities": [
+      { "name": "Demon-Dweller Sword", "description": "Anti-magic sword scaling with Asta's physical power." }
+    ],
+    "feats": [
+      { "title": "Defeated powerful mages", "detail": "Shows mastery of anti-magic and tactical fighting." }
+    ],
+    "sources": [
+      { "label": "Black Clover Manga Chapter 162", "url": "https://example.com" }
+    ]
+  },
+  {
+    "id": "luffy",
+    "name": "Monkey D. Luffy",
+    "anime": "One Piece",
+    "image": "",
+    "stats": { "strength": 90, "speed": 85, "durability": 90, "hax": 65, "iq": 70, "stamina": 95 },
+    "about": "Luffy at Gear 4 used for scaling strength and speed in One Piece fights.",
+    "abilities": [
+      { "name": "Gomu Gomu no Red Roc", "description": "Stretching attack with explosive force." }
+    ],
+    "feats": [
+      { "title": "Defeated Katakuri", "detail": "High-level combat feat during Whole Cake Island arc." }
+    ],
+    "sources": [
+      { "label": "One Piece Manga Chapter 895", "url": "https://example.com" }
+    ]
+  }
+]
